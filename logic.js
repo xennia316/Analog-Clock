@@ -15,7 +15,7 @@ setInterval(function () {
 		"rotate(" + seconds + "deg)";
 
 	document.getElementById("minute-hand").style.transform =
-		"rotate(" + minutes + " deg)";
+		"rotate(" + minutes + "deg)";
 
 	document.getElementById("hour-hand").style.transform =
 		"rotate(" + hours + "deg )";
